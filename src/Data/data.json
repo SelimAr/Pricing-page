@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "flatrate": "Start",
+      "price": "0",
+      "options": [
+            "Fonctionnalités de démarrage",
+            "Notifications par e-mail et SMS",
+            "Déployement et restaurations instantanées"
+        ]
+    },
+    {
+      "id": 2,
+      "flatrate": "Teams",
+      "price": "9.99",
+      "options": [
+            "Bande passante de 1,5 To",
+            "Assistance personnalisé",
+            "Fonctionnalités d'arrière plan",
+            "Journal des logs disponible pendant 7 jours",
+            "Authentification unique SAML"
+        ]
+    },
+    {
+      "id": 3,
+      "flatrate": "Pro",
+      "price": "29.99",
+      "options": [
+            "Bande passante de 10 To ou plus",
+            "Assistance personnalisé",
+            "Tableau de bord complet",
+            "Journal des logs sans limites de temps",
+            "Examen de la sécurité et de la conformité",
+            "Priorité sur les merge building",
+            "Variables d'environnement partagées"
+        ]
+    },
+    {
+        "id": 4,
+        "test": "Grace à notre nouveau système de gestion de données profitez d'un flux d'actualisation sans interruption."
+    },
+    {
+        "id": 5,
+        "test": "Un environnement de construction premium avec plus de simultanéité et de puissance de traitement."
+    },
+    {
+        "id": 6,
+        "test": "Mettez à niveau automatiquement les blocs en fonction de votre degré d'utilisation de ceux ci."
+    },
+    {
+        "id": 7,
+        "test": "Utilisez notre dashboard analytics qui utilise des données capturées en temps réel à partir de nos serveurs."
+    },
+    {
+        "id": 8,
+        "test": "Ecrivez et éxécutez du code directement depuis notre console de développement via n'importe quel terminal."
+    },
+    {
+        "id": 9,
+        "test": "Sécurisez, donnez un accès à un membre de votre équipe ou isolez instantanément via l'automatisation."
+    }
+]
+  

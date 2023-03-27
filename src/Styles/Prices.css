@@ -1,0 +1,45 @@
+.prices{
+    margin: 1em;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    backdrop-filter: blur(15px);
+    padding: 20px;
+    border-radius: 10px;  
+    min-width: 12em;
+    max-width: 15em;
+}
+
+.prices_flatrate{
+    font-size: 35px;
+}
+
+.prices_price{
+    font-size: 4em;
+    line-height: 1em;
+    color: #fff;
+    text-shadow:0 0 7px #fff, 0 0 3px #fff, 0 0 40px #4f6ef8, 0 0 42px #4f6ef8;
+    text-align: center;
+}
+
+.prices_center{
+    display: flex;
+    justify-content: center;
+}
+
+.prices_sub{
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 22px;
+    cursor: pointer;
+    margin: 30px 0 15px 0;
+    padding: 5px;
+}
+
+.prices_options{
+    display: flex;
+    align-items: center;
+    overflow-wrap: anywhere;
+    line-height: 1.6em;
+}

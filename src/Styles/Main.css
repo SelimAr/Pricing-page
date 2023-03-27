@@ -1,0 +1,33 @@
+.main{
+    margin-top: 1em;
+}
+
+.main_title{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.main_container{
+    display: flex;
+    justify-content: center;
+}
+
+.main_content{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 1em;
+    max-width: 70em;
+}
+
+.main_prices{
+    color: #fff;
+}

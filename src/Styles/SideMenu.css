@@ -1,0 +1,45 @@
+.sidemenu_background{
+    position: fixed;
+    inset: 0;
+    z-index: 20;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.sidemenu{
+    background: linear-gradient(0.25turn, rgb(0,2,18), rgb(22, 23, 41), rgb(20, 11, 37));
+    justify-content: center;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 0 0 0 10px;
+    z-index: 10;
+    width: 15em;
+    text-align: center;
+}
+
+.sidemenu_icons{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.close{
+    right: 0;
+    position: absolute;
+}
+
+.sidemenu_ul{
+    list-style: none;
+    margin-right: 2em;
+    line-height: 6em;
+}
+
+.sidemenu_li{
+    font-size: 25px;
+    cursor: pointer;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
