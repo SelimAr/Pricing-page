@@ -1,3 +1,7 @@
+### **Pricing page ReactJS / CSS**
+![pricing_page](https://user-images.githubusercontent.com/82125128/227817337-82706052-0ee9-436a-9847-c2bb3fd67974.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
